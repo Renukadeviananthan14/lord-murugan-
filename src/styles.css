@@ -49,7 +49,7 @@ h1{
 @media only screen and (max-width: 600px){
   body{
     font-size: 14px;
-    postion: absolute;
+    postion: sticky;
   }
   h1{
     font-size: larger;
