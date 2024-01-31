@@ -60,6 +60,7 @@ h1{
 @media only screen and (max-width: 600px){
   body{
     font-size: 14px;
+    postion: absolute;
   }
   h1{
     font-size: larger;
@@ -70,6 +71,7 @@ h1{
     width: 400px;
     font-size: 5px;
     flex-direction: column;
+    margin: 20px;
     
   }
   .card{
@@ -85,6 +87,7 @@ h1{
   }
   .abtpara{
     width: 50%;
+    margin: 20px;
   }
   .nav-link{
     font-size: 12px;
