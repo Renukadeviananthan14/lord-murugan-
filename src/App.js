@@ -6,7 +6,7 @@ import EventPage from './component/event';
 import Scroll from './component/carousel';
 import About from './component/About';
 import Temple from './component/Temple';
-import Contact from './component/contact';
+
 import Footer from './component/Footer';
 
 const App = () => {
@@ -16,7 +16,7 @@ const App = () => {
       <Scroll />
       <About />
       <Temple />
-      <Contact />
+     
       <Footer />
     </div>
   );
