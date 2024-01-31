@@ -77,6 +77,8 @@ h1{
   .abtpara{
     width: 70%;
     margin: 30px;
+    letter-spacing: 1px;
+    line-height: 15px;
   }
   .nav-link{
     font-size: 10px;
